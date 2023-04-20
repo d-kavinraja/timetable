@@ -117,6 +117,8 @@ Name : Kavinraja D
 # OUTPUT
 ## CLIENT OUTPUT
 ![OUTPUT](./o1.png)
+## SERVER OUTPUT
+![output](./SERVER.png)
 ## HTML VALIDATOR
 ![output](./o2.png)
 
