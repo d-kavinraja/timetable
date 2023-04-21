@@ -14,9 +14,9 @@ Add your timetable
 Execute the program
 
 # CODE
-```
-Reg no : 212222240047
-Name : Kavinraja D
+# Reg no : 212222240047
+# Name : Kavinraja D
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
